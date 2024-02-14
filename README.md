@@ -1,2 +1,3 @@
-# practica1_pdf
-Práctica 1 de Lab de Programación
+Rodrigo Vite Hernández 
+321172833
+vitehernandezrodrigo@gmail.com 
